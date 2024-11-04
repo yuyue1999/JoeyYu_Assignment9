@@ -8,8 +8,8 @@
 ![Test](https://github.com/yuyue1999/JoeyYu_assignment2/actions/workflows/test.yml/badge.svg)
 
 
-## Videos
-* https://youtu.be/abtZvfy2YC4
+## Google Colab
+*https://colab.research.google.com/github/yuyue1999/JoeyYu_Assignment9/blob/main/main.ipynb#scrollTo=OcSSKglF8lOK
 
 
 ## Requirements
