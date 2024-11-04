@@ -1,0 +1,6 @@
+pandas
+matplotlib
+pytest
+black
+ruff
+nbval
