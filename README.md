@@ -1,22 +1,18 @@
 
 
-# Joey Yu(yy373) MiniProject 1
+# Joey Yu(yy373)
 
-![Format](https://github.com/yuyue1999/JoeyYu_assignment2/actions/workflows/format.yml/badge.svg)
-![Install](https://github.com/yuyue1999/JoeyYu_assignment2/actions/workflows/install.yml/badge.svg)
-![Lint](https://github.com/yuyue1999/JoeyYu_assignment2/actions/workflows/lint.yml/badge.svg)
-![Test](https://github.com/yuyue1999/JoeyYu_assignment2/actions/workflows/test.yml/badge.svg)
+![Format](https://github.com/yuyue1999/JoeyYu_Assignment9/actions/workflows/format.yml/badge.svg)
+![Install](https://github.com/yuyue1999/JoeyYu_Assignment9/actions/workflows/install.yml/badge.svg)
+![Lint](https://github.com/yuyue1999/JoeyYu_Assignment9/actions/workflows/lint.yml/badge.svg)
+![Test](https://github.com/yuyue1999/JoeyYu_Assignment9/actions/workflows/test.yml/badge.svg)
 
 
 ## Google Colab
 *https://colab.research.google.com/github/yuyue1999/JoeyYu_Assignment9/blob/main/main.ipynb#scrollTo=OcSSKglF8lOK
 
 
-## Requirements
-* Python script using Polars for descriptive statistics
-* Read a dataset (CSV or Excel)
-* Generate summary statistics (mean, median, standard deviation)
-* Create at least one data visualization
+
 
 ## Brief Introduction
 
@@ -53,8 +49,3 @@ max    155209.821614
 #### blocks histogram
 
 ![requiredskill_histogram.png](requiredskill_histogram.png)
-
-### Extra Credit
-
-Extra Credit (CI/CD PDF or MD generation), 5 points
-the PDF would be generated automatically
